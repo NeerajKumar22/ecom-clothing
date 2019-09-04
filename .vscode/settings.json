@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.experimentalRefreshOnResume": true,
+    "workbench.settings.useSplitJSON": true,
+    "workbench.settings.editor": "json"
+}
